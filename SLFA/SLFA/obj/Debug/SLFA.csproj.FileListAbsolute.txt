@@ -1,0 +1,9 @@
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\bin\Debug\SLFA.exe
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\bin\Debug\SLFA.pdb
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\obj\Debug\SLFA.Properties.Resources.resources
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\obj\Debug\SLFA.csproj.GenerateResource.Cache
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\obj\Debug\SLFA.exe
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\obj\Debug\SLFA.pdb
+C:\MARCEL\POLYGON\PR\SLFA\sl2016-master\SLFA\SLFA\obj\Debug\SLFA.Form1.resources
+C:\MARCEL\POLYGON\PR\SLFA\sl2016\SLFA\SLFA\obj\Debug\SLFA.exe
+C:\MARCEL\POLYGON\PR\SLFA\sl2016\SLFA\SLFA\obj\Debug\SLFA.pdb
