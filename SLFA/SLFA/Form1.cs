@@ -14,7 +14,19 @@ namespace SLFA
         public Form1()
         {
             InitializeComponent();
+
+            ToolStripButton clearBtn = new ToolStripButton();
+            clearBtn.Text = "Clear";
+            // устанавливаем обработчик нажатия
+            clearBtn.Click += btn_Click;
+            menuStrip1.Items.Add(clearBtn);
         }
+ 
+        void btn_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Производится удаление");            
+        }
+    
 
         private void создатьToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -40,6 +52,11 @@ namespace SLFA
             Form[] form = MdiChildren;
             foreach (Form f in form)
                 f.Close();
+        }
+
+        private void помощьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
