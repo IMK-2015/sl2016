@@ -120,4 +120,24 @@
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>229, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAC8AAAAvCAYAAABzJ5OsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGCSURBVGhD7VhbjsMgEMuduFPvlCvsWfY358kOSqq2LAOe
+        B49UcWRVRaT1uB4IXfYL4xY/Ct8t/peuZQv7Sq+zoSo+il5+HlRAZDhH5wDo/FP8XEXUnd9y4g+OBpz5
+        nPjIsK3nzP4QZp7niIZWZp5j315QZn7NjH2yB5ydf2do3g9g5vmGRbjS1QIC5+tRKc4hA7xbGsx86jxS
+        CEe/pnbIPFdI+6YGnc9/uQcfVKQWDs6jLP8Smk3O0XlLH5ykppYAcz67VCJi9QUhqDvvFptIWTG1Ta5B
+        5iUCkbn8Kc4h8/pooIwacgAzn36gVDAy//8cc2yOzGuebTjBWOEI6s5fean0XW1SvgqO8ZRCmfkn7W43
+        fTyQO58WxL+3AnT+vWGNbgtzXYKT80BBFL3uh5Fy5gHSvdwOaYXRec7xY3z4AVznfJ//b0DnwR2WiuwJ
+        pfNJXBrmugRj5g/6ryMYTJkPxJHQOd852xxA518NOxMw50n8iIasoSp+ZtziR+EWPwb7/gfANvQVojE6
+        XAAAAABJRU5ErkJggg==
+</value>
+  </data>
 </root>
