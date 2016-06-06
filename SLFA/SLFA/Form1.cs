@@ -58,5 +58,10 @@ namespace SLFA
         {
 
         }
+
+        private void стартToolStripButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
